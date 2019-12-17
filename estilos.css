@@ -1,3 +1,4 @@
+
 h1 {
     font-family: "Times New Roman";
 
@@ -25,6 +26,7 @@ article {
     box-sizing: border-box;
     border-radius: 20px;
     color: white;
+
     width: 140px;
     height: 140px;
     text-align: center;
@@ -43,5 +45,6 @@ img {
 
 p {
     font-size: small;
-    font-family: web-safe-front
+    font-family: web-safe-front;
+    margin: auto;
 }
