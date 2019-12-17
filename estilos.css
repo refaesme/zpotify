@@ -1,0 +1,49 @@
+h1 {
+    font-family: "Times New Roman";
+
+}
+
+main {
+    padding: 20px;
+    width: 500px;
+    background: #F2FCFF;
+    border: 2px solid #C3F1FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-row-gap: 15px;
+}
+
+
+article {
+    background: #5AD2AE;
+    border: 1px solid #469F85;
+    box-sizing: border-box;
+    border-radius: 20px;
+    color: white;
+    width: 140px;
+    height: 140px;
+    text-align: center;
+    image-orientation: width="40"height="30"
+
+}
+
+
+
+img {
+    width: 90px;
+    height: 90px;
+    border-radius: 200px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+
+p {
+    font-size: small;
+    font-family: web-safe-front
+}
